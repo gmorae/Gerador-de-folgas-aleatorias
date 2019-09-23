@@ -6,3 +6,11 @@ Foi solicitado que fizessemos um sistema de folgas onde a mesma seria gerada ale
 programação JavaScript.
 Fizemos uma página web, onde quem deseja gerar a folga deve entrar com cinco nomes diferentes e clicando no botão 
 gerar, irá aparecer logo abaixo o nome de quem irá folgar em algum determinado dia.
+
+Linguagens utilizadas
+----------------------------
+HTML5, CSS3, JS.
+
+Frameworks
+--
+Bootstrap4.
